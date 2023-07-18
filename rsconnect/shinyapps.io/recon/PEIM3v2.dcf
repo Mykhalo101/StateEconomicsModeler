@@ -1,0 +1,13 @@
+name: PEIM3v2
+title: PEIM3v2
+username:
+account: recon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5651021
+bundleId: 5578327
+url: https://recon.shinyapps.io/PEIM3v2/
+when: 1644862337.22326
+lastSyncTime: 1644862337.22326
+asMultiple: FALSE
+asStatic: FALSE
